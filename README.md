@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 Adding a line for rebaseexample
 and more changes in myfeature
+After 
 
 ## Purpose
 
